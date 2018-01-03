@@ -5,3 +5,10 @@ devfs                 189      189         0   100%     656                   0 
 map -hosts              0        0         0   100%       0                   0  100%   /net
 map auto_home           0        0         0   100%       0                   0  100%   /home
 map -fstab              0        0         0   100%       0                   0  100%   /Network/Servers
+Filesystem    1024-blocks     Used Available Capacity iused               ifree %iused  Mounted on
+/dev/disk1s1    488245284 91379816 394083884    19%  880524 9223372036853895283    0%   /
+devfs                 189      189         0   100%     656                   0  100%   /dev
+/dev/disk1s4    488245284  2097172 394083884     1%       2 9223372036854775805    0%   /private/var/vm
+map -hosts              0        0         0   100%       0                   0  100%   /net
+map auto_home           0        0         0   100%       0                   0  100%   /home
+map -fstab              0        0         0   100%       0                   0  100%   /Network/Servers
